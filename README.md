@@ -2,7 +2,14 @@
 
 ## Introduction
 
-VC-Armor is an innovative solution presented for the hackathon challenge. It showcases the capabilities of a live AI chat integrated into a bank's client area. This platform is designed to offer financial management support, advice, and advertise tailored banking services such as capital insurance, VC capital insurance, and startup insurance. All these features are presented on a demo page built with Next.js which mimics a customer's bank client area.
+
+Check it here [VC-Armor Live Demo](https://armor-tau.vercel.app/)
+
+![Screenshot](Screenshot.png)
+
+VC-Armor is an innovative solution presented for the BOC-4.0 hackathon challenge. It showcases the capabilities of a live AI chat integrated into a bank's client area. This platform is designed to offer financial management support, advice, and advertise tailored banking services such as capital insurance, VC capital insurance, and startup insurance. All these features are presented on a demo page built with Next.js which mimics a customer's bank client area.
+
+
 
 ### Key Features
 
